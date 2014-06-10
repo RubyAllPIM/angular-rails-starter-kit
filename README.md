@@ -1,0 +1,2 @@
+Angular / Rails starter kit
+===========
